@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">JD app</string>
+    <string name="title_activity_main">JD app</string>
+    <string name="package_name">com.jagdeeswaran.dailytracker</string>
+    <string name="custom_url_scheme">com.jagdeeswaran.dailytracker</string>
+</resources>
